@@ -46,5 +46,3 @@ gallery.addEventListener("click", function (event) {
     console.log("Image alt:", alt);
   }
 });
-
-console.log(galleryItems);
