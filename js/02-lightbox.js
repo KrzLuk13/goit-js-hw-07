@@ -32,5 +32,5 @@ document.addEventListener("DOMContentLoaded", function () {
     captionDelay: 250, // Ustawienie opóźnienia w wyświetlaniu podpisu
   });
 
-  console.log(galleryItems);
+  console.log(gallery Items);
 });
